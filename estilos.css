@@ -52,6 +52,7 @@ main > #conteudo {
 form > input {
   background-color: rgba(0, 0, 0, 0.664);
   border: black;
+  color: aliceblue;
 }
 
 form > input[type="submit"] {
