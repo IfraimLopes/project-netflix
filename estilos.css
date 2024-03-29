@@ -38,7 +38,7 @@ main > #conteudo {
 
 #conteudo {
   position: absolute;
-  left: 30%;
+  left: 20%;
   top: 50%;
   transform: translate(-50%, -50%);
   transform: translateY(-10em);
