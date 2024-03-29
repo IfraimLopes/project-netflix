@@ -93,6 +93,7 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 22px;
   text-align: center;
+  padding-bottom: 13px;
 }
 
 #omega,
@@ -109,6 +110,8 @@ p {
   background-color: #10101098;
   outline-color: #000000;
   width: 313px;
+  margin: auto;
+  margin-bottom: 10px;
 }
 
 #omega {
