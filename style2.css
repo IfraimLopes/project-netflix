@@ -1,38 +1,38 @@
-@charset "UTF-8";
+    @charset "UTF-8";
 
-@media screen and (max-width: 600px) {
-  p {
-    line-height: 1em;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
-  }
+    @media screen and (max-width: 600px) {
+      p {
+        line-height: 1em;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+      }
 
-  h1 {
-    line-height: 1em;
-    font-family: "Protest Strike";
-    font-weight: 400;
-    font-style: normal;
-    font-size: 2.5em;
-    padding-bottom: 20px;
-  }
+      h1 {
+        line-height: 1em;
+        font-family: "Protest Strike";
+        font-weight: 400;
+        font-style: normal;
+        font-size: 2.5em;
+        padding-bottom: 20px;
+      }
 
-  #omega {
-    border: 0px solid white;
-    padding: 10px;
-    border-radius: 6px;
-    background-color: red;
-    width: 200px;
-    height: 25px;
-  }
+      #omega {
+        border: 0px solid white;
+        padding: 10px;
+        border-radius: 6px;
+        background-color: red;
+        width: 200px;
+        height: 25px;
+      }
 
-  #alpha {
-    border: 1px solid white;
-    line-height: 2em;
-    padding: 2px;
-    border-radius: 6px;
-    background-color: #10101098;
-    outline-color: #000000;
-    width: 300px;
-    height: 30px;
-  }
-}
+      #alpha {
+        border: 1px solid white;
+        line-height: 2em;
+        padding: 2px;
+        border-radius: 6px;
+        background-color: #10101098;
+        outline-color: #000000;
+        width: 300px;
+        height: 30px;
+      }
+    }
